@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SignalWalker/SignalWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Social Media:
+  - [Mastodon](https://social.ashwalker.net/Ash)
+- Editor: [Neovim](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
