@@ -1,18 +1,12 @@
-<!--
-**SignalWalker/SignalWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - Social Media:
+  - [Personal Website](https://ashwalker.net)
+    - [Source](https://github.com/signalwalker/nix.net.ashwalker)
   - [Mastodon](https://social.ashwalker.net/Ash)
-- Editor: [Neovim](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
+- Tools:
+  - [Neovim](https://github.com/neovim/neovim)
+    - [Config](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
+- [Home-Manager](https://github.com/nix-community/home-manager) Config:
+  - [Base](https://github.com/signalwalker/nix.home.base)
+  - [Desktop](https://github.com/signalwalker/nix.home.desktop)
+  - [Dev](https://github.com/signalwalker/nix.home.dev)
+  - [Media](https://github.com/signalwalker/nix.home.media)
