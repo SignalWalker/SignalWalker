@@ -7,6 +7,7 @@
   - [Neovim](https://github.com/neovim/neovim)
     - [Config](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
 - [Home-Manager](https://github.com/nix-community/home-manager) Config:
+  - [Lib](https://github.com/signalwalker/nix.home.lib)
   - [Base](https://github.com/signalwalker/nix.home.base)
   - [Desktop](https://github.com/signalwalker/nix.home.desktop)
   - [Dev](https://github.com/signalwalker/nix.home.dev)
