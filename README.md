@@ -1,6 +1,7 @@
 - Social Media:
   - [Personal Website](https://ashwalker.net)
-    - [Source](https://github.com/signalwalker/nix.net.ashwalker)
+    - [Source](https://github.com/signalwalker/net.ashwalker)
+    - [Server Config](https://github.com/signalwalker/nix.net.ashwalker)
   - [Mastodon](https://social.ashwalker.net/Ash)
 - Tools:
   - [Neovim](https://github.com/neovim/neovim)
