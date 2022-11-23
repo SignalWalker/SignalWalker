@@ -12,4 +12,4 @@
   - [Desktop](https://github.com/signalwalker/nix.home.desktop)
   - [Dev](https://github.com/signalwalker/nix.home.dev)
   - [Media](https://github.com/signalwalker/nix.home.media)
-- Projects: pinned repositories on [my profile](https://github.com/SignalWalker)
+- Projects: pinned repositories on [my github profile](https://github.com/SignalWalker)
