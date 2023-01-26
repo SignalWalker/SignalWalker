@@ -4,6 +4,7 @@
     - [Server Config](https://github.com/signalwalker/nix.net.ashwalker)
   - [Fediverse](https://social.ashwalker.net/Ash)
   - [Wiki](https://wiki.ashwalker.net)
+  - [LinkedIn](https://www.linkedin.com/in/ashurst-walker/)
 - Tools:
   - [Neovim](https://github.com/neovim/neovim)
     - [Config](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
