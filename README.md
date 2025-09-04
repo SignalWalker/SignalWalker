@@ -12,7 +12,7 @@
   - [Lib](https://github.com/signalwalker/nix.home.lib)
   - [Base](https://github.com/signalwalker/nix.home.base) :: configuration common to all systems
   - [Desktop](https://github.com/signalwalker/nix.home.desktop) :: configuration for desktop systems
-- [NixOS] Config:
+- [NixOS](https://nixos.org) Config:
   - [Base](https://github.com/signalwalker/nix.sys.base) :: configuration common to all systems
   - [Desktop](https://github.com/signalwalker/nix.sys.desktop) :: configuration for desktop systems
   - [ashwalker.net](https://github.com/signalwalker/nix.net.ashwalker) ::  configuration for [ashwalker.net](https://ashwalker.net)
