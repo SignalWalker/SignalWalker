@@ -10,8 +10,10 @@
     - [Config](https://github.com/signalwalker/nix.home.dev/tree/main/src/editor/neovim)
 - [Home-Manager](https://github.com/nix-community/home-manager) Config:
   - [Lib](https://github.com/signalwalker/nix.home.lib)
-  - [Base](https://github.com/signalwalker/nix.home.base)
-  - [Desktop](https://github.com/signalwalker/nix.home.desktop)
-  - [Dev](https://github.com/signalwalker/nix.home.dev)
-  - [Media](https://github.com/signalwalker/nix.home.media)
+  - [Base](https://github.com/signalwalker/nix.home.base) :: configuration common to all systems
+  - [Desktop](https://github.com/signalwalker/nix.home.desktop) :: configuration for desktop systems
+- [NixOS] Config:
+  - [Base](https://github.com/signalwalker/nix.sys.base) :: configuration common to all systems
+  - [Desktop](https://github.com/signalwalker/nix.sys.desktop) :: configuration for desktop systems
+  - [ashwalker.net](https://github.com/signalwalker/nix.net.ashwalker) ::  configuration for [ashwalker.net](https://ashwalker.net)
 - Projects: pinned repositories on [my github profile](https://github.com/SignalWalker). Not all are currently active, though I do intend to continue working on all of them.
